@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #333;
+	color: #fff;
+	background: linear-gradient(rgb(194, 95, 59) 50%, rgb(146, 60, 60) 50%);
+}
+
+.header {
+	font-size: 40px;
+	text-align: center;
+	margin: 0 auto;
+	span {
+		font-size: 20px;
+	}
+}
